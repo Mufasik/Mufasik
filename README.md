@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mufasik
+- 👋 Hi, I’m @Mufasik (Stanislav Skripkar)
 - 👀 I’m interested in programming, automation and optimization
 - 🌱 I’m currently learning PHP, Python, JavaScript, MySQL
-- 💞️ I’m looking to collaborate on games
+- 💞️ I’m looking for interesting technologies and projects
 - 📫 How to reach me ...
 
 <!---
