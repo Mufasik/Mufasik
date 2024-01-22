@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, automation and optimization
 - 🌱 I’m currently learning PHP, Python, JavaScript, MySQL
 - 💞️ I’m looking for interesting technologies and projects
-- 📫 Discord - Mufasik#6517
+- 📫 Discord - Mufasik
 
 <!---
 Mufasik/Mufasik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
