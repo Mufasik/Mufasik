@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mufasik
 - 👀 I’m interested in programming, automation and optimization
-- 🌱 I’m currently learning PHP, Python, JavaScript, MySQL
+- 🌱 I’m currently learning PHP, Python, JavaScript, MySQL, Lua
 - 💞️ I’m looking for interesting technologies and projects
 - 📫 Discord - Mufasik
 
